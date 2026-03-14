@@ -1,0 +1,9 @@
+
+# Ignore common IDE directories and files
+
+## IntelliJ
+.idea
+*.iml
+
+## VSCode
+.vscode
